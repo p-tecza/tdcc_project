@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleport
+  - Coin
+  - Enemy
+  - EnemyTrigger
+  - TreasureChest
+  - Item
+  - Collectable
+  - Projectile
+  - ShopItem
+  - Hint
+  - Description
+  - NextLevelTeleport
+  - Walls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sprites
+  - Water
+  - UI
+  - Enemies
+  - Player
+  - Projectiles
+  - Environment
+  - Items
+  - Collectables
+  - Interactive
+  - QuestItems
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1413291111
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2790670607
+    locked: 0
+  - name: OverlapTilemap1
+    uniqueID: 55585497
+    locked: 0
+  - name: InGameUI
+    uniqueID: 241643033
+    locked: 0
